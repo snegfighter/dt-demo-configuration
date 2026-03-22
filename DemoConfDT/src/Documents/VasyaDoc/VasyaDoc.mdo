@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f3407a8b-90a2-4e32-93c5-416172b527af">
+  <producedTypes>
+    <objectType typeId="80ce968e-d272-4aa2-8187-301508b3fc1f" valueTypeId="44105575-95a9-4b71-afbf-488424a5b4bd"/>
+    <refType typeId="37d72433-c6ae-4ed4-858d-7ad0c37e7acc" valueTypeId="134eccdf-d54c-45d7-9768-7ef8ee7afee2"/>
+    <selectionType typeId="ba3ef185-c34a-452b-b181-76408caf5f76" valueTypeId="8baeed8a-362b-4793-9ac0-be631de8ea4f"/>
+    <listType typeId="df0ac3c5-39da-4338-b1e5-89476d289237" valueTypeId="79861f95-3513-46fc-8454-7d8c974b3856"/>
+    <managerType typeId="14f040a9-f227-4e3b-b7bf-96b203e6fcfc" valueTypeId="57e7e7f3-e723-4b11-a48d-47bba99ca0b8"/>
+  </producedTypes>
+  <name>VasyaDoc</name>
+  <synonym>
+    <key>ru</key>
+    <value>Vasya doc</value>
+  </synonym>
+  <comment>А вот и документик</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.VasyaDoc.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
