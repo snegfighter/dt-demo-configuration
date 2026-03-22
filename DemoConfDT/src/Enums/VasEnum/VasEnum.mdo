@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="391371ba-014c-45b2-a05d-f3dea5dd4517">
+  <producedTypes>
+    <refType typeId="aea608eb-7c82-4f37-a4f6-008e6460f839" valueTypeId="078f3e40-e85e-4911-a678-aa3f1cddc892"/>
+    <listType typeId="73baeec3-8076-4436-8e81-877831a122cc" valueTypeId="bf073895-3032-4a70-a6e4-eb7be74fba57"/>
+    <managerType typeId="a97eb60a-5cdc-4767-9922-3761b1a898fe" valueTypeId="1bb0f3a5-78a6-4a03-aa2f-9be3cf74aa65"/>
+  </producedTypes>
+  <name>VasEnum</name>
+  <synonym>
+    <key>ru</key>
+    <value>Vas enum</value>
+  </synonym>
+  <comment>Перечисляем зп Васе</comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
