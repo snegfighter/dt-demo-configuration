@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c0d99298-6613-47d4-bdd3-9c0af9f76952">
+  <producedTypes>
+    <objectType typeId="a767a235-0296-4f26-b1f4-51ec04eea889" valueTypeId="65a81d33-ccf4-4998-a1a9-3f4328c741fc"/>
+    <refType typeId="c54b554e-caf4-48d8-aadb-42467317b98f" valueTypeId="6651d860-ad5b-469e-94c0-81614a2f28c9"/>
+    <selectionType typeId="d98d0d4c-83c4-46e7-a8bd-284b699dbabc" valueTypeId="a6999b99-b8c5-46ff-b508-90537977209b"/>
+    <listType typeId="7e026137-8865-4d32-8bd8-25371f71d1ce" valueTypeId="110b83c7-7397-4b8f-84f6-71918c834a76"/>
+    <managerType typeId="52569a50-47a3-43c5-a53b-830cca65c45d" valueTypeId="d21acc29-33e6-4e77-be45-66813bd6500e"/>
+  </producedTypes>
+  <name>VasilSpravka</name>
+  <synonym>
+    <key>ru</key>
+    <value>Vasil spravka</value>
+  </synonym>
+  <comment>Произвольная форма от Васи</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.VasilSpravka.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.VasilSpravka.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
